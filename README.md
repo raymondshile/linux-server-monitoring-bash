@@ -37,3 +37,15 @@ This reflects real-world responsibilities of a system administrator or technical
 
 Olashile Agaba  
 Cloud Infrastructure Student | Incoming Technical Support Engineer Intern at Red Hat
+## How to Run
+
+1. Clone the repository:
+```bash
+git clone https://github.com/raymondshile/linux-server-monitoring-bash.git
+cd linux-server-monitoring-bash
+chmod +x monitor.sh
+./monitor.sh
+
+
+
+
