@@ -36,22 +36,23 @@ This reflects real-world responsibilities of a system administrator or technical
 ## Author
 
 Olashile Agaba  
-Cloud Infrastructure Student | Incoming Technical Support Engineer Intern at Red Hat
+Cloud Infrastructure Student | Incoming Technical Support Engineer Intern, Red Hat (May–August 2026)
+
 ## How to Run
 
-1. Clone the repository:
-
 ```bash
+# Clone the repository
 git clone https://github.com/raymondshile/linux-server-monitoring-bash.git
+
+# Navigate into the project folder
 cd linux-server-monitoring-bash
+
+# Make the script executable
 chmod +x monitor.sh
+
+# Run the script
 ./monitor.sh
 ```
-
-
-
-
-
 
 
 
