@@ -44,11 +44,9 @@ Cloud Infrastructure Student | Incoming Technical Support Engineer Intern at Red
 ```bash
 git clone https://github.com/raymondshile/linux-server-monitoring-bash.git
 cd linux-server-monitoring-bash
-'''\bash
 chmod +x monitor.sh
-'''\bash
-./monitor.shdoes this look right
-
+./monitor.sh
+```
 
 
 
