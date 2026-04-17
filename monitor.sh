@@ -1,6 +1,7 @@
 #!/bin/bash
 
 echo "===== SYSTEM HEALTH CHECK ====="
+echo "Date: $(date)"
 echo ""
 
 echo "Uptime:"
@@ -17,3 +18,6 @@ echo ""
 
 echo "Top Processes:"
 top -b -n 1 | head -15
+echo ""
+
+echo "===== END OF REPORT ====="
