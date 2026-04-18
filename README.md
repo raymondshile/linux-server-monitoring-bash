@@ -1,21 +1,13 @@
 # Linux Server Monitoring (Bash)
 
-A lightweight Bash-based monitoring tool designed to track system health, resource usage, and uptime on Linux servers.
-
----
-
-## Overview
-
-This project simulates real-world system administration tasks by monitoring CPU usage, memory consumption, disk space, and system uptime.
-
----
+A lightweight Bash-based monitoring tool for tracking system health and performance.
 
 ## Features
-
-- CPU usage monitoring  
-- Memory usage tracking  
-- Disk space checks  
-- System uptime reporting  
+- CPU usage monitoring
+- Memory usage tracking
+- Disk usage analysis
+- System uptime display
+- Process monitoring 
 
 ---
 
