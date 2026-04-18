@@ -7,7 +7,29 @@ A lightweight Bash-based monitoring tool for tracking system health and performa
 - Memory usage tracking
 - Disk usage analysis
 - System uptime display
-- Process monitoring 
+- Process monitoring
+
+  ## Real-World Application
+
+This project simulates tasks performed by system administrators and technical support engineers in real production environments. 
+
+It focuses on monitoring system health, identifying resource bottlenecks, and improving troubleshooting efficiency using native Linux tools.
+
+  ## How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/raymondshile/linux-server-monitoring-bash.git
+
+# Navigate into the project folder
+cd linux-server-monitoring-bash
+
+# Make the script executable
+chmod +x monitor.sh
+
+# Run the script
+./monitor.sh
+```
 
 ---
 
@@ -30,21 +52,7 @@ This reflects real-world responsibilities of a system administrator or technical
 Olashile Agaba  
 Cloud Infrastructure Student | Incoming Technical Support Engineer Intern, Red Hat (May–August 2026)
 
-## How to Run
 
-```bash
-# Clone the repository
-git clone https://github.com/raymondshile/linux-server-monitoring-bash.git
-
-# Navigate into the project folder
-cd linux-server-monitoring-bash
-
-# Make the script executable
-chmod +x monitor.sh
-
-# Run the script
-./monitor.sh
-```
 
 
 
